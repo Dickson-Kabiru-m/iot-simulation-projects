@@ -51,3 +51,7 @@ ELSE
     Red LED ON
     Green LED OFF
 END IF
+
+Author
+Dickson Kabiru
+Control & Instrumentation Engineering Student
