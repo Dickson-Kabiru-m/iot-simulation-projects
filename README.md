@@ -13,3 +13,11 @@ BSc.Control & Instrumentation Student
 - Sensor integration
 - Simulation-driven development
 - ESP32 WiFi & bluetooth connection
+
+# ESP32 Wi-Fi LED Control System
+- ESP32 programming
+- Wi-Fi communication
+- Embedded web server creation
+- GPIO control
+- Basic IoT system design
+- HTTP request handling
