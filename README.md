@@ -1,5 +1,5 @@
 ## Current Role
-Control & Instrumentation Engineering Student
+BSc.Control & Instrumentation Student
 
 ## Simulation Tools
 - Wokwi
@@ -7,8 +7,9 @@ Control & Instrumentation Engineering Student
 - Cirkit Designer
 
 ## Skills Demonstrated
-- Embedded C/C++ (Arduino)
+- Embedded C/C++ (Arduino, ESP32)
 - Digital and analog interfacing
 - Servo motor control
 - Sensor integration
 - Simulation-driven development
+- ESP32 WiFi & bluetooth connection
